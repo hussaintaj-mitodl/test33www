@@ -4,7 +4,7 @@ courselists:
   content: []
   website: test33www
 cover-image:
-  content: ''
+  content: 1a920347-98cd-41c1-961c-00a6f6f05cc1
   website: test33www
 description: ''
 featured-courses:
