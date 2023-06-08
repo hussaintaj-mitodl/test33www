@@ -8,7 +8,7 @@ cover-image:
   website: test33www
 description: ''
 featured-courses:
-  content: ''
+  content: 6a210dbd-31d0-45d4-8905-5c597646cf3a
   website: test33www
 title: f
 uid: 24a51394-3937-4448-80aa-5f9062418ea6
